@@ -1,0 +1,1 @@
+This is a simple tic tac toe game application which uses core python programming,pygame can also be integraded with this to make it more attractive and user friendly to understand and use with this application.
